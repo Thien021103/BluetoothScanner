@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothScannerTest</string>
+    <string name="default_mac">00:00:00:00:00:00</string>
+    <string name="device_name">Device Name</string>
+    <string name="status_text">Press \'Scan\' to find devices</string>
+    <string name="scan_button">Scan for Devices</string>
+    <string name="stop_button">Stop socket</string>
+    <string name="title_text">Bluetooth Device Finder</string>
+</resources>
