@@ -1,5 +1,5 @@
 # BluetoothScanner
-This is Bluetooth classic and ble scanner app written in Java
+This is Bluetooth classic and BLE scanner app written in Java
 
 # To test with Classic:
 Make sure you can see
@@ -18,7 +18,7 @@ and :
 ```
 UP RUNNING PSCAN ISCAN
 ```
-after `hciconfig hci0`.
+after running `hciconfig hci0`.
 
 Run: `sudo rfcomm listen /dev/rfcomm0 1`
 
